@@ -5,4 +5,8 @@ urlpatterns = [
     url(r'^$', view_cart, name='view_cart'),
     url(r'^add/(?P<id>\d+)', add_to_cart, name='add_to_cart'),
     url(r'^adjust/(?P<id>\d+)', adjust_cart, name='adjust_cart'),
+<<<<<<< HEAD
     ]
+=======
+    ]
+>>>>>>> 7722c23bc91d3a9dde056b1b87716cc60bb75641

@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/bogdan-vlad/e-commerce.svg?branch=master)](https://travis-ci.org/bogdan-vlad/e-commerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
